@@ -46,6 +46,7 @@ with open('lines.txt','r') as file1:
 
 ### OUTPUT:
 ![](./ss1.png)
+
 ![](./ss.png)
 
 
