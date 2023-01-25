@@ -1,9 +1,11 @@
 # Copy-file
 
 ## AIM:
+
 To write a python program for copying the contents from one file to another file.
 
 ## EQUIPEMENT'S REQUIRED: 
+
 PC
 Anaconda - Python 3.7
 
@@ -32,10 +34,9 @@ Then the text is shown in empty file text.txt.
 
 Result is obtained.
 
-
 ## PROGRAM:
 ```
-Reference no: 22008695
+Register no: 22008695
 Developed by: ABRIN NISHA A
 
 with open('lines.txt','r') as file1:
